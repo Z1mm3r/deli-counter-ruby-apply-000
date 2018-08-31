@@ -1,6 +1,6 @@
 # Write your code here.
 
-katz_deli = []
+
 
 def line(input_line)
   
